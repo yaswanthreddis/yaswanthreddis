@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst || Web Developer || Python Coder
 ------------------------------------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthreddis&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthreddis" /> </p>
+
 I'm thrilled to connect with professionals, enthusiasts, and experts across diverse fields. As an aspiring Data Analyst, I'm driven by a fusion of my passion for Data Analytics and Insights Industry and an insatiable curiosity for technology.
 
 * 🌍  I'm based in Bapatla
@@ -13,8 +15,6 @@ I'm thrilled to connect with professionals, enthusiasts, and experts across dive
 * 🤝  I'm open to collaborating on Data Analysis Related Projects
 * ⚡  My Favourite Pet Dog Is Golden Reteriver...
 
-<a href="https://www.github.com/yaswanthreddis" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yaswanthreddis?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -31,9 +31,8 @@ src="https://img.shields.io/github/followers/yaswanthreddis?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/yaswanthreddis"><img src="https://github-readme-stats.vercel.app/api?username=yaswanthreddis&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="yaswanthreddis's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaswanthreddis&show_icons=true&locale=en&layout=compact" alt="yaswanthreddis" /></p>
 
-<a href="http://www.github.com/yaswanthreddis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthreddis&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/yaswanthreddis"><img src="https://github-readme-stats.vercel.app/api?username=yaswanthreddis&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true" alt="yaswanthreddis's GitHub stats" /></a>
 
-<a href="https://github.com/yaswanthreddis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthreddis&langs_count=10&title_color=22c55e&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="http://www.github.com/yaswanthreddis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthreddis&stroke=000000&background=ffffff&ring=22c55e&fire=22c55e&currStreakNum=000000&currStreakLabel=22c55e&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" /></a>
