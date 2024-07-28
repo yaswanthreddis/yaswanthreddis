@@ -9,7 +9,7 @@ Aspiring Data Analyst || Web Developer || Python Coder
 I'm thrilled to connect with professionals, enthusiasts, and experts across diverse fields. As an aspiring Data Analyst, I'm driven by a fusion of my passion for Data Analytics and Insights Industry and an insatiable curiosity for technology.
 
 * 🌍  I'm based in Bapatla
-* 🖥️  See my portfolio at [My Portfolio](http://yaswanthreddys.in)
+* 🖥️  See my portfolio at [My Portfolio](https://yaswanthreddis.github.io/)
 * ✉️  You can contact me at [yaswanthreddis@gmail.com](mailto:yaswanthreddis@gmail.com)
 * 🧠  I'm learning Data Analysis
 * 🤝  I'm open to collaborating on Data Analysis Related Projects
