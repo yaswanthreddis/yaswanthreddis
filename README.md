@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yaswanth Reddy Seelam
 =============================================================================================================================================
 
-Aspiring Data Analyst || Web Developer || Python Coder
+Data Analyst || Web Developer (Django) || Python Developer
 ------------------------------------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthreddis&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthreddis" /> </p>
